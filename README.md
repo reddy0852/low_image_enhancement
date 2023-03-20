@@ -41,7 +41,7 @@ The image is clarified by:<code> J(x)=(I(x)- A)/max(t(x), t0)+A</code>
 Where <code>J(x)</code> is output, <code>I(x)</code> is input,<code> t(x) </code>is transmission map, A is atmospheric light and t0 is set to a constant value to avoid dividing by zero.
 
 ## Usage:
-Currently, the user has to specify the input image and output image path in a main() function. Next update will use console arguments to specify the image path. Feel free to add new things to the code and pull a merge request.
+Currently, the user has to specify the input image and output image path by selecting from the GUI . Next update will use console arguments to specify the image path. Feel free to add new things to the code and pull a merge request.
 
 ## Dependencies
 cv2 numpy Pytorch ski-image
