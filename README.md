@@ -44,4 +44,4 @@ Where <code>J(x)</code> is output, <code>I(x)</code> is input,<code> t(x) </code
 Currently, the user has to specify the input image and output image path in a main() function. Next update will use console arguments to specify the image path. Feel free to add new things to the code and pull a merge request.
 
 ## Dependencies
-cv2 numpy
+cv2 numpy Pytorch ski-image
