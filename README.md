@@ -43,5 +43,26 @@ Where <code>J(x)</code> is output, <code>I(x)</code> is input,<code> t(x) </code
 ## Usage:
 Currently, the user has to specify the input image and output image path by selecting from the GUI . Next update will use console arguments to specify the image path. Feel free to add new things to the code and pull a merge request.
 
-## Dependencies
-cv2 numpy Pytorch ski-image
+## Technologies Used
+
+- Python
+- NumPy
+- Pandas
+- Scikit-learn
+- PyTorch
+- Opencv2
+
+## Installation
+
+To set up the required libraries, follow these steps:
+
+1. Open a terminal or command prompt.
+
+2. Navigate to the project directory.
+
+3. Run the following command:
+   ```shell
+   python -m requirements.py
+   ```
+This will automatically install the necessary libraries for the project.
+
