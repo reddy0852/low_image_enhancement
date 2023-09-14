@@ -8,7 +8,6 @@ libraries = [
     "seaborn",
     "torch",
     "Pillow",
-    "tqdm",
     "pickle",
     "opencv-python"
 ]
